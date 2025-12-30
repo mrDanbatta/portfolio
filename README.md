@@ -7,12 +7,12 @@
 - BSc. Information Technology and Business Information Systems | Middlesex University (_July 2021_)
 
 ## Work Experience
-*Data Science Consultant @ Amdari (_November 2025 - Present_)*
+**Data Science Consultant @ Amdari (_November 2025 - Present_)**
 - Completed a retail banking engagement developing data-driven customer segmentation frameworks.
 - Currently leading modelling work on an insurance project focused on long-term cost estimation.
 - Working with statistical modelling, structured analysis, and data engineering alignment to produce decision-ready insights.
 
-*Data Science Intern @ SingleSource Technologies (_December 2022 - September 2023_)*
+**Data Science Intern @ SingleSource Technologies (_December 2022 - September 2023_)**
 - Developed a Python-based script for EDGAR database data retrieval and preparation.
 - Achieved substantial improvements in risk classification accuracy using advanced machine learning techniques.
 - Conducted advanced data exploration, visualization, and statistical analysis using Python and R.
