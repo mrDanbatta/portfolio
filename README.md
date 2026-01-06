@@ -4,7 +4,7 @@
 ## Education
 - MSc. Information Systems | Kingston University (_November 2025_)
 - MSc. Data Science | Middlesex University (_November 2023_)
-- BSc. Information Technology and Business Information Systems | Middlesex University (_July 2021_)
+- BSc. Information Technology | Middlesex University (_July 2021_)
 
 ## Work Experience
 **Data Science Consultant @ Amdari (_November 2025 - Present_)**
