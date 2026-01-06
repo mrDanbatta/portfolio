@@ -24,4 +24,19 @@
 
 Developed a script using *Python* to fetch section 1.A (Risk Factors) of the 10-K filings from the EDGAR Database. Researched several NLP manipulation techniques to clssify the risk factors including Linear SVC, Naive Bayes, Logistic Regression, Topic Modelling, Neural Networks and Neural Topic Modelling. With the rise of LLMs (Large Language Models), that was the best solution to the risk classification problem but it costs more. [AI Solution](https://github.com/mrDanbatta/AI_Risk_Classification.git)
 
+### AI Risk Classification
+[Repository](https://github.com/mrDanbatta/AI_Risk_Classification)
+
+Built an automated pipeline to extract risk factors from U.S. SEC 10-K filings and classify them with language models into risk categories. Ingests text from filings, preprocesses risk text, and applies NLP/LLM classification to assign risk category labels. Technologies: Python, Hugging Face/LLM API (or similar), NLP preprocessing (tokenization, vectorization), structured output classes for risk taxonomy.
+
+### FNOL(First Notice Of Loss) Intelligence System
+[Repository](https://github.com/mrDanbatta/FNOL_Intelligence_System_Project)
+
+Developed a machine learning model to predict claim outcomes/costs based on First Notice of Loss (FNOL) insurance data. Workflow included cleaning and transforming structured incident/claim features, exploratory data analysis, and supervised ML training with evaluation metrics. Techniques likely used: Python, pandas/NumPy, Scikit-learn models (e.g., regression/classification), feature engineering, model validation.
+
+### RFM Analysis
+[Repository](https://github.com/mrDanbatta/RFM_Analysis_using_bank_data)
+
+Performed customer segmentation of banking customers using RFM (Recency, Frequency, Monetary) analysis to score and cluster clients by value/behavior. Computed RFM metrics from transactional data, then applied clustering (e.g., K-Means) to derive segments for targeted marketing. Technologies: Python, pandas for data manipulation, Scikit-learn for clustering, visualization libraries for segment profiling.
+
 
