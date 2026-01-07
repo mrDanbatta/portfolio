@@ -1,4 +1,3 @@
-# Mukhtar Rabiu Danbatta
 # Data Scientist
 #### Technical Skills: Python, R, SQL
 
