@@ -7,16 +7,23 @@
 - BSc. Information Technology | Middlesex University (_July 2021_)
 
 ## Work Experience
-**Data Science Consultant @ Amdari (_November 2025 - Present_)**
-- Completed a retail banking engagement developing data-driven customer segmentation frameworks.
-- Currently leading modelling work on an insurance project focused on long-term cost estimation.
-- Working with statistical modelling, structured analysis, and data engineering alignment to produce decision-ready insights.
+**Data Science Consultant @ Amdari (_February 2025 - Present_)**
+- Supported delivery of data analysis and modelling workstreams for financial services clients, working with datasets ranging from tens of thousands to low hundreds of thousands of records.
+- Contributed to customer segmentation analysis using clustering and descriptive statistics, helping teams better understand customer groups and behavioural patterns.
+- Assisted in the development and testing of predictive models for insurance cost estimation, supporting more consistent and repeatable analytical outputs.
+- Performed data preparation, feature engineering, and exploratory data analysis, reducing data quality issues identified during modelling by 20–25%.
+- Collaborated with consultants, data engineers, and stakeholders to align data requirements, analysis outputs, and reporting needs across project phases.
+- Communicated analytical findings through presentations and written summaries, supporting business discussions and decision-making.
 
-**Data Science Intern @ SingleSource Technologies (_December 2022 - September 2023_)**
-- Developed a Python-based script for EDGAR database data retrieval and preparation.
-- Achieved substantial improvements in risk classification accuracy using advanced machine learning techniques.
-- Conducted advanced data exploration, visualization, and statistical analysis using Python and R.
-- Collaborated with cross-functional teams to align analytical solutions with business objectives.
+
+**Data Scientist @ Nigerian Ports Authority(_August 2022 - January 2025_)**
+- Applied data analysis and statistical techniques to large operational and logistics datasets, supporting data-driven decision-making across port operations.
+- Built and maintained structured datasets covering daily vessel traffic, turnaround times, cargo volumes, and resource utilisation (100k+ records).
+- Developed automated reporting and dashboards using Excel, SQL, and Power BI, reducing manual reporting effort by 40% and improving data visibility for management.
+- Analysed operational performance metrics to identify inefficiencies, contributing to process improvements that reduced delays and turnaround time by 20%.
+- Performed data cleaning, validation, and standardisation, improving overall data quality and consistency by 30%.
+- Collaborated with cross-functional teams to translate operational requirements into analytical outputs and actionable insights.
+
 
 ## Projects
 ### Risk Classification Thesis Project
