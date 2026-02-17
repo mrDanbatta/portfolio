@@ -41,9 +41,14 @@ Built an automated pipeline to extract risk factors from U.S. SEC 10-K filings a
 
 Developed a machine learning model to predict claim outcomes/costs based on First Notice of Loss (FNOL) insurance data. Workflow included cleaning and transforming structured incident/claim features, exploratory data analysis, and supervised ML training with evaluation metrics. Techniques likely used: Python, pandas/NumPy, Scikit-learn models (e.g., regression/classification), feature engineering, model validation.
 
-### RFM Analysis
+### Customer Segmentation using RFM Analysis
 [Repository](https://github.com/mrDanbatta/RFM_Analysis_using_bank_data)
 
 Performed customer segmentation of banking customers using RFM (Recency, Frequency, Monetary) analysis to score and cluster clients by value/behavior. Computed RFM metrics from transactional data, then applied clustering (e.g., K-Means) to derive segments for targeted marketing. Technologies: Python, pandas for data manipulation, Scikit-learn for clustering, visualization libraries for segment profiling.
+
+### AI Bed Prediction
+[Repository](https://github.com/mrDanbatta/AI_Bed_Prediction_project)
+
+Developed a machine learning system to predict hospital bed demand using historical hospital utilization data, enabling proactive capacity planning and operational decision-making. Built a full data science workflow including data preprocessing, feature engineering, and predictive modeling to forecast future bed requirements. Technologies and techniques: Python, Jupyter Notebook, pandas and NumPy for data manipulation, exploratory data analysis, supervised machine learning models for demand prediction, and performance evaluation using regression metrics.
 
 
