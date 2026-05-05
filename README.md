@@ -59,6 +59,6 @@ Built an AI-powered conversational chatbot designed to handle hotel-related quer
 ### Shift Perfomance Optimisation
 [Repository](https://github.com/mrDanbatta/Shift_performace_project)
 
-Developed a data analysis and predictive modelling solution to evaluate and improve workforce shift performance using operational data. The project processes shift-level data to identify patterns in productivity, inefficiencies, and performance variability, then applies analytical and machine learning techniques to generate insights and performance predictions. Technologies and techniques: Python, pandas and NumPy for data preprocessing, exploratory data analysis (EDA) for performance trend identification, feature engineering on time/shift-based variables, and supervised machine learning models (via scikit-learn) to assess and predict performance outcomes
+Developed a data analysis and predictive modelling solution to evaluate and improve workforce shift performance using operational data. The project processes shift-level data to identify patterns in productivity, inefficiencies, and performance variability, then applies analytical and machine learning techniques to generate insights and performance predictions. Technologies and techniques: Python, pandas and NumPy for data preprocessing, exploratory data analysis (EDA) for performance trend identification, feature engineering on time/shift-based variables, and supervised machine learning models (via scikit-learn) to assess and predict performance outcomes.
 
 
