@@ -51,4 +51,14 @@ Performed customer segmentation of banking customers using RFM (Recency, Frequen
 
 Developed a machine learning system to predict hospital bed demand using historical hospital utilization data, enabling proactive capacity planning and operational decision-making. Built a full data science workflow including data preprocessing, feature engineering, and predictive modeling to forecast future bed requirements. Technologies and techniques: Python, Jupyter Notebook, pandas and NumPy for data manipulation, exploratory data analysis, supervised machine learning models for demand prediction, and performance evaluation using regression metrics.
 
+### Travel Assistant AI
+[Repository](https://github.com/mrDanbatta/Hotel_chatbot_project)
+
+Built an AI-powered conversational chatbot designed to handle hotel-related queries, enabling users to interact naturally for information retrieval and basic booking assistance. The system processes user input, interprets intent, and generates context-aware responses to simulate a hotel assistant experience. Technologies and techniques: Python, natural language processing, large language models (LLMs) for conversational response generation, prompt engineering, and integration frameworks such as LangChain and API-based LLM services for dialogue management and response orchestration.
+
+### Shift Perfomance Optimisation
+[Repository](https://github.com/mrDanbatta/Shift_performace_project)
+
+Developed a data analysis and predictive modelling solution to evaluate and improve workforce shift performance using operational data. The project processes shift-level data to identify patterns in productivity, inefficiencies, and performance variability, then applies analytical and machine learning techniques to generate insights and performance predictions. Technologies and techniques: Python, pandas and NumPy for data preprocessing, exploratory data analysis (EDA) for performance trend identification, feature engineering on time/shift-based variables, and supervised machine learning models (via scikit-learn) to assess and predict performance outcomes
+
 
